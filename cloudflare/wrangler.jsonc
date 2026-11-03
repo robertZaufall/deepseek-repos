@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "deepseek-repos-proxy",
+  "main": "worker.js",
+  "compatibility_date": "2026-07-30",
+  "routes": [
+    {
+      "pattern": "glaubi.net/deepseek",
+      "zone_name": "glaubi.net"
+    },
+    {
+      "pattern": "glaubi.net/deepseek/*",
+      "zone_name": "glaubi.net"
+    }
+  ],
+  "workers_dev": false,
+  "preview_urls": false
+}
