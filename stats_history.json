@@ -306,7 +306,7 @@
         "deepseek-ai/DeepEP": {
           "forks": 1546,
           "pushed_at": "2026-10-21T03:50:43Z",
-          "stars": 10416
+          "stars": 10417
         },
         "deepseek-ai/DeepEP-Ascend": {
           "forks": 60,
@@ -316,7 +316,7 @@
         "deepseek-ai/DeepGEMM": {
           "forks": 1512,
           "pushed_at": "2026-10-20T05:07:07Z",
-          "stars": 9166
+          "stars": 9168
         },
         "deepseek-ai/DeepGEMM-Ascend": {
           "forks": 82,
@@ -324,9 +324,9 @@
           "stars": 632
         },
         "deepseek-ai/DeepInfer": {
-          "forks": 3132,
+          "forks": 3133,
           "pushed_at": "2026-11-03T07:31:59Z",
-          "stars": 25564
+          "stars": 25575
         },
         "deepseek-ai/DeepJIT": {
           "forks": 76,
@@ -341,7 +341,7 @@
         "deepseek-ai/FlashMLA": {
           "forks": 1266,
           "pushed_at": "2026-10-27T02:50:40Z",
-          "stars": 13253
+          "stars": 13254
         },
         "deepseek-ai/TileKernels": {
           "forks": 228,
@@ -349,19 +349,19 @@
           "stars": 2033
         },
         "deepseek-ai/awesome-deepseek-agent": {
-          "forks": 797,
+          "forks": 799,
           "pushed_at": "2026-09-17T03:21:52Z",
-          "stars": 6400
+          "stars": 6401
         },
         "deepseek-ai/deepseek-harness": {
-          "forks": 33635,
+          "forks": 33670,
           "pushed_at": "2026-11-04T13:06:39Z",
-          "stars": 275147
+          "stars": 275412
         },
         "deepseek-ai/deepseek-recipe": {
-          "forks": 439,
+          "forks": 440,
           "pushed_at": "2026-10-19T17:51:18Z",
-          "stars": 2788
+          "stars": 2792
         },
         "deepseek-ai/dsh-libreoffice-kit": {
           "forks": 16,
@@ -369,9 +369,9 @@
           "stars": 212
         },
         "deepseek-ai/dsh-superagent-prototype": {
-          "forks": 2376,
+          "forks": 2418,
           "pushed_at": "2026-11-03T09:29:14Z",
-          "stars": 20400
+          "stars": 20582
         }
       }
     }
