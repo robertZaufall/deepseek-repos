@@ -456,12 +456,12 @@
         "deepseek-ai/3FS": {
           "forks": 1149,
           "pushed_at": "2026-11-08T11:50:56Z",
-          "stars": 10439
+          "stars": 10442
         },
         "deepseek-ai/DeepEP": {
-          "forks": 1551,
+          "forks": 1552,
           "pushed_at": "2026-10-21T03:50:43Z",
-          "stars": 10422
+          "stars": 10423
         },
         "deepseek-ai/DeepEP-Ascend": {
           "forks": 62,
@@ -471,27 +471,27 @@
         "deepseek-ai/DeepGEMM": {
           "forks": 1518,
           "pushed_at": "2026-10-20T05:07:07Z",
-          "stars": 9176
+          "stars": 9177
         },
         "deepseek-ai/DeepGEMM-Ascend": {
           "forks": 83,
           "pushed_at": "2026-10-14T09:22:37Z",
-          "stars": 634
+          "stars": 635
         },
         "deepseek-ai/DeepInfer": {
-          "forks": 3151,
+          "forks": 3154,
           "pushed_at": "2026-11-03T07:31:59Z",
-          "stars": 25695
+          "stars": 25715
         },
         "deepseek-ai/DeepJIT": {
           "forks": 77,
           "pushed_at": "2026-11-05T13:21:36Z",
-          "stars": 456
+          "stars": 458
         },
         "deepseek-ai/DeepSelect": {
           "forks": 76,
           "pushed_at": "2026-09-30T01:54:54Z",
-          "stars": 534
+          "stars": 535
         },
         "deepseek-ai/FlashMLA": {
           "forks": 1271,
@@ -509,14 +509,14 @@
           "stars": 6413
         },
         "deepseek-ai/deepseek-harness": {
-          "forks": 33914,
+          "forks": 33959,
           "pushed_at": "2026-11-04T13:06:39Z",
-          "stars": 276786
+          "stars": 277107
         },
         "deepseek-ai/deepseek-recipe": {
           "forks": 442,
           "pushed_at": "2026-10-19T17:51:18Z",
-          "stars": 2809
+          "stars": 2810
         },
         "deepseek-ai/dsh-libreoffice-kit": {
           "forks": 16,
@@ -524,9 +524,9 @@
           "stars": 212
         },
         "deepseek-ai/dsh-superagent-prototype": {
-          "forks": 2567,
+          "forks": 2583,
           "pushed_at": "2026-11-03T09:29:14Z",
-          "stars": 21381
+          "stars": 21577
         }
       }
     }
