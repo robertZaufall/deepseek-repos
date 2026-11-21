@@ -1486,7 +1486,7 @@
         "deepseek-ai/3FS": {
           "forks": 1161,
           "pushed_at": "2026-11-17T16:15:45Z",
-          "stars": 10489
+          "stars": 10490
         },
         "deepseek-ai/DeepEP": {
           "forks": 1566,
@@ -1509,9 +1509,9 @@
           "stars": 644
         },
         "deepseek-ai/DeepInfer": {
-          "forks": 3243,
+          "forks": 3244,
           "pushed_at": "2026-11-19T08:28:29Z",
-          "stars": 26269
+          "stars": 26280
         },
         "deepseek-ai/DeepJIT": {
           "forks": 80,
@@ -1536,37 +1536,37 @@
         "deepseek-ai/awesome-deepseek-agent": {
           "forks": 801,
           "pushed_at": "2026-09-17T03:21:52Z",
-          "stars": 6464
+          "stars": 6467
         },
         "deepseek-ai/awesome-deepseek-integration": {
-          "forks": 4358,
+          "forks": 4359,
           "pushed_at": "2026-11-13T10:31:30Z",
-          "stars": 39982
+          "stars": 39986
         },
         "deepseek-ai/chat-demo": {
-          "forks": 1176,
+          "forks": 1196,
           "pushed_at": "2026-11-20T08:48:26Z",
-          "stars": 5149
+          "stars": 5184
         },
         "deepseek-ai/deepseek-harness": {
-          "forks": 35399,
+          "forks": 35411,
           "pushed_at": "2026-11-18T12:48:10Z",
-          "stars": 284790
+          "stars": 284898
         },
         "deepseek-ai/deepseek-recipe": {
-          "forks": 458,
+          "forks": 459,
           "pushed_at": "2026-10-19T17:51:18Z",
           "stars": 2902
         },
         "deepseek-ai/dsh-libreoffice-kit": {
           "forks": 19,
           "pushed_at": "2026-09-30T07:37:00Z",
-          "stars": 223
+          "stars": 224
         },
         "deepseek-ai/dsh-superagent-prototype": {
-          "forks": 2994,
+          "forks": 2997,
           "pushed_at": "2026-11-03T09:29:14Z",
-          "stars": 24101
+          "stars": 24126
         }
       }
     }
