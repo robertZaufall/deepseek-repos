@@ -2109,6 +2109,96 @@
           "stars": 24701
         }
       }
+    },
+    {
+      "date": "2026-11-28",
+      "repos": {
+        "deepseek-ai/3FS": {
+          "forks": 1167,
+          "pushed_at": "2026-11-27T04:44:23Z",
+          "stars": 10519
+        },
+        "deepseek-ai/DeepEP": {
+          "forks": 1574,
+          "pushed_at": "2026-11-27T09:01:24Z",
+          "stars": 10480
+        },
+        "deepseek-ai/DeepEP-Ascend": {
+          "forks": 75,
+          "pushed_at": "2026-11-27T09:01:56Z",
+          "stars": 337
+        },
+        "deepseek-ai/DeepGEMM": {
+          "forks": 1556,
+          "pushed_at": "2026-11-26T09:25:25Z",
+          "stars": 9239
+        },
+        "deepseek-ai/DeepGEMM-Ascend": {
+          "forks": 94,
+          "pushed_at": "2026-11-26T08:38:54Z",
+          "stars": 655
+        },
+        "deepseek-ai/DeepInfer": {
+          "forks": 3265,
+          "pushed_at": "2026-11-19T08:28:29Z",
+          "stars": 26419
+        },
+        "deepseek-ai/DeepJIT": {
+          "forks": 84,
+          "pushed_at": "2026-11-27T06:32:20Z",
+          "stars": 480
+        },
+        "deepseek-ai/DeepSelect": {
+          "forks": 82,
+          "pushed_at": "2026-11-26T09:37:59Z",
+          "stars": 559
+        },
+        "deepseek-ai/FlashMLA": {
+          "forks": 1289,
+          "pushed_at": "2026-11-26T09:46:33Z",
+          "stars": 13299
+        },
+        "deepseek-ai/TileKernels": {
+          "forks": 244,
+          "pushed_at": "2026-11-27T09:19:50Z",
+          "stars": 2091
+        },
+        "deepseek-ai/awesome-deepseek-agent": {
+          "forks": 807,
+          "pushed_at": "2026-09-17T03:21:52Z",
+          "stars": 6489
+        },
+        "deepseek-ai/awesome-deepseek-integration": {
+          "forks": 4369,
+          "pushed_at": "2026-11-13T10:31:30Z",
+          "stars": 40065
+        },
+        "deepseek-ai/chat-demo": {
+          "forks": 1330,
+          "pushed_at": "2026-11-24T11:20:28Z",
+          "stars": 5528
+        },
+        "deepseek-ai/deepseek-harness": {
+          "forks": 35996,
+          "pushed_at": "2026-11-22T11:00:05Z",
+          "stars": 288134
+        },
+        "deepseek-ai/deepseek-recipe": {
+          "forks": 464,
+          "pushed_at": "2026-10-19T17:51:18Z",
+          "stars": 2926
+        },
+        "deepseek-ai/dsh-libreoffice-kit": {
+          "forks": 22,
+          "pushed_at": "2026-09-30T07:37:00Z",
+          "stars": 225
+        },
+        "deepseek-ai/dsh-superagent-prototype": {
+          "forks": 3114,
+          "pushed_at": "2026-11-03T09:29:14Z",
+          "stars": 24755
+        }
+      }
     }
   ]
 }
